@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://teamtact.github.io/hugobase/python/basics/one/</loc>
+    <loc>https://teamtact.github.io/hugobase/python/scipy/scipy_basics/</loc>
+    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teamtact.github.io/hugobase/python/basics/arithmetic_operations/</loc>
     <lastmod>2020-08-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -15,14 +20,6 @@
   <url>
     <loc>https://teamtact.github.io/hugobase/python/basics/template/</loc>
     <lastmod>2019-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://teamtact.github.io/hugobase/python/basics/f1-score-sample/</loc>
-  </url>
-  
-  <url>
-    <loc>https://teamtact.github.io/hugobase/python/basics/version-check/</loc>
   </url>
   
   <url>

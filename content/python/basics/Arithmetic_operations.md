@@ -8,18 +8,50 @@ draft: false
 ---
 
 ```python
-print('Hello Toronto')
+1+1
 ```
 
-    Hello Toronto
+
+
+
+    2
+
 
 
 
 ```python
-print(2)
+3-2
 ```
 
+
+
+
+    1
+
+
+
+
+```python
+4*5
+```
+
+
+
+
+    20
+
+
+
+
+```python
+5//2
+```
+
+
+
+
     2
+
 
 
 

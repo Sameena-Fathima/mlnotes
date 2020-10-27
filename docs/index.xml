@@ -12,12 +12,21 @@
     
     
     <item>
-      <title>append</title>
-      <link>https://teamtact.github.io/hugobase/python/basics/one/</link>
+      <title>Scipy</title>
+      <link>https://teamtact.github.io/hugobase/python/scipy/scipy_basics/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://teamtact.github.io/hugobase/python/basics/one/</guid>
+      <guid>https://teamtact.github.io/hugobase/python/scipy/scipy_basics/</guid>
       <description>print(&amp;#39;Hello Toronto&amp;#39;) Hello Toronto  print(2) 2  </description>
+    </item>
+    
+    <item>
+      <title>append</title>
+      <link>https://teamtact.github.io/hugobase/python/basics/arithmetic_operations/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://teamtact.github.io/hugobase/python/basics/arithmetic_operations/</guid>
+      <description>1+1 2  3-2 1  4*5 20  5//2 2  </description>
     </item>
     
     <item>
@@ -36,25 +45,6 @@
       
       <guid>https://teamtact.github.io/hugobase/python/basics/template/</guid>
       <description>print(&amp;#39;Hello Toronto&amp;#39;) Hello Toronto  print(2) 2  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://teamtact.github.io/hugobase/python/basics/f1-score-sample/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://teamtact.github.io/hugobase/python/basics/f1-score-sample/</guid>
-      <description>Source:
-https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html  from sklearn.metrics import f1_scorey_true = [0, 1, 2, 0, 1, 2] y_pred = [0, 2, 1, 0, 0, 1]y_true [0, 1, 2, 0, 1, 2]  y_pred [0, 2, 1, 0, 0, 1]  f1_score_1 = f1_score(y_true, y_pred, average = &amp;#39;macro&amp;#39;)f1_score_1 0.26666666666666666  f1_score_2 = f1_score(y_true, y_pred, average = &amp;#39;micro&amp;#39;)f1_score_2 0.3333333333333333  f1_score_3 = f1_score(y_true, y_pred, average = &amp;#39;weighted&amp;#39;)f1_score_3 0.26666666666666666  f1_score_4 = f1_score(y_true, y_pred, average = None)f1_score_4 array([0.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://teamtact.github.io/hugobase/python/basics/version-check/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://teamtact.github.io/hugobase/python/basics/version-check/</guid>
-      <description>!python --version Python 3.8.5  </description>
     </item>
     
   </channel>
